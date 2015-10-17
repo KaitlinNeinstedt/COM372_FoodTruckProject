@@ -1,1 +1,107 @@
+#list1 {
+  padding: 10px;
+  font-size: 30px;
+}
 
+#title1 {
+  color: FA5858;
+  font-size: 50px;
+  font-family: sans-serif;
+  border: black solid;
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+
+}
+
+#listitem1 {
+  float: left;
+  color: FA5858;
+  font-size:30px;
+  font-weight: bold;
+  font-family: cursive;
+  width: 0px;
+  margin-left: 575px;
+  margin-right: 50px;
+  margin-top: 300px;
+  margin-bottom: 0px;
+  padding:0px;
+}
+
+#listitem2 {
+  float:left;
+  color: FA5858;
+  font-size:30px;
+  font-weight: bold;
+  font-family: cursive;
+  width:0px;
+  margin-left: 270px;
+  margin-right: 50px;
+  margin-top: 300px;
+  margin-bottom: 0px;
+  padding:0px;
+}
+
+#listitem3 {
+  float:right;
+  color: FA5858;
+  font-size:30px;
+  font-weight: bold;
+  font-family: cursive;
+  width: 0px;
+  margin-left: 50px;
+  margin-right: 705px;
+  margin-top: 300px;
+  margin-bottom: 0px;
+  padding:0px;
+}
+
+#subtitle {
+  margin-top: 30px;
+  font-size: 20px;
+  font-family: cursive;
+  font-color: FA5858;
+}
+
+#appetizers {
+  font-size: 25px;
+  font-family: cursive;
+}
+
+#soups {
+font-size: 25px;
+font-family: cursive;
+}
+
+#sandwiches {
+  font-size: 25px;
+  font-family: cursive;
+}
+
+#list1{
+  font-family: cursive;
+  padding: 10px;
+}
+
+#events {
+  font-family: cursive;
+  font-weight: bold;
+  color: FA5858;
+  font-size: 25px;
+  border: black solid 3px;
+}
+
+#story1 {
+  color: FA5858;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: cursive;
+  margin-top: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 100px;
+}
+
+#background {
+  margin-left: 800px;
+}
